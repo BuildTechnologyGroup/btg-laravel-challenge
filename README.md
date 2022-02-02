@@ -19,3 +19,7 @@ A couple of links to help get you started:
 2. Seed data from this laravel project into the correct database/table.
 3. Create API Controller to GET items from the seeded articles table in the laravel mysql database.
 4. Call the created API controller from ExampleComponent.vue and render it in that component.
+
+## When you are finished
+
+Zip the project up and send it back to us. Good luck!
