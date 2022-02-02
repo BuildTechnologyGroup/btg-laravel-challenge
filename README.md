@@ -6,7 +6,7 @@ This is an exercise to gauge real-world problem solving using PHP, Laravel, and 
 
 To get started, download this repository AS A ZIP. Then get your development environment setup. 
 
-A couple of things to links get you started:
+A couple of links to help get you started:
 
 - [Laravel Installation](https://laravel.com/docs/8.x/installation)
 - [Node 14 Installation](https://nodejs.org/en/blog/release/v14.4.0/)
